@@ -1,3 +1,5 @@
+[![CI](https://github.com/nogibjj/Nakiyah_Assignment1/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Nakiyah_Assignment1/actions/workflows/cicd.yml)
+
 # Nakiyah Dhariwala - Assignment 1
 
 This repository contains:
